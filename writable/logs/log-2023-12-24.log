@@ -1,0 +1,289 @@
+INFO - 2023-12-24 11:35:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 11:35:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 11:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 14:24:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 14:24:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 14:30:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 14:32:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-24 14:32:45 --> Undefined variable $postingan_kategori
+in APPPATH\Views\layout\postingan.php on line 31.
+ 1 APPPATH\Views\layout\postingan.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $postingan_kategori', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\postingan.php', 31)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\postingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/postingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(29): view('layout/postingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:35:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-24 14:35:05 --> Undefined variable $postingan_kategori
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $postingan_kategori', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(44): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 14:35:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 14:38:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-24 14:38:29 --> Undefined variable $artikel
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artikel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(44): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-24 14:40:18 --> Undefined variable $Artikel
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Artikel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(44): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-24 14:40:19 --> Undefined variable $Artikel
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Artikel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(44): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-24 14:40:20 --> Undefined variable $Artikel
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Artikel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(44): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-24 14:42:45 --> Undefined variable $artikel
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artikel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(44): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-24 14:42:47 --> Undefined variable $artikel
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artikel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(44): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-24 14:45:05 --> Undefined variable $artikelModel
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artikelModel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(47): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-24 14:46:16 --> Undefined variable $artikelModel
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artikelModel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(47): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-24 14:47:03 --> Undefined variable $artikel
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artikel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(47): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-24 14:49:54 --> Undefined variable $artikel
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artikel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(37): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-24 14:49:56 --> Undefined variable $artikel
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artikel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(37): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:49:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 14:50:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 14:50:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-24 14:50:13 --> Undefined variable $artikel
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artikel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(37): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:50:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-24 14:50:46 --> Undefined variable $artikel
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artikel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(47): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-24 14:52:18 --> Undefined variable $postingan
+in APPPATH\Controllers\Postingan.php on line 23.
+ 1 APPPATH\Controllers\Postingan.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $postingan', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Controllers\\Postingan.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:52:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 14:52:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-24 14:52:26 --> Undefined variable $postingan
+in APPPATH\Controllers\Postingan.php on line 23.
+ 1 APPPATH\Controllers\Postingan.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $postingan', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Controllers\\Postingan.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:54:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 14:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 14:54:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-24 14:54:13 --> Undefined variable $artikel
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artikel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(36): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:54:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 14:54:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-24 14:54:48 --> Undefined variable $artikel
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artikel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(51): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-24 14:55:12 --> Undefined variable $artikelModel
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artikelModel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(51): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-24 14:58:51 --> Undefined variable $artikel
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artikel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(51): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-24 14:59:59 --> Undefined variable $artikel
+in APPPATH\Views\layout\createpostingan.php on line 15.
+ 1 APPPATH\Views\layout\createpostingan.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artikel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 15)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(51): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-24 15:00:40 --> Undefined variable $artikel
+in APPPATH\Views\layout\createpostingan.php on line 12.
+ 1 APPPATH\Views\layout\createpostingan.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $artikel', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 12)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(51): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-24 15:04:35 --> Undefined variable $data
+in APPPATH\Views\layout\createpostingan.php on line 16.
+ 1 APPPATH\Views\layout\createpostingan.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(51): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-24 15:04:37 --> Undefined variable $data
+in APPPATH\Views\layout\createpostingan.php on line 16.
+ 1 APPPATH\Views\layout\createpostingan.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\createpostingan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/createpostingan', [], true)
+ 5 APPPATH\Controllers\Postingan.php(51): view('layout/createpostingan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Postingan->create()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Postingan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

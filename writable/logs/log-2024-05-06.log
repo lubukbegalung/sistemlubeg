@@ -1,0 +1,650 @@
+INFO - 2024-05-06 01:43:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 01:43:57 --> Undefined array key "tempat"
+in APPPATH\Views\layout\laporan.php on line 63.
+ 1 APPPATH\Views\layout\laporan.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tempat"', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php', 63)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 5 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 01:44:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 01:44:05 --> Undefined array key "tempat"
+in APPPATH\Views\layout\laporan.php on line 63.
+ 1 APPPATH\Views\layout\laporan.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tempat"', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php', 63)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 5 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 01:44:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 01:44:11 --> Undefined array key "tempat"
+in APPPATH\Views\layout\laporan.php on line 63.
+ 1 APPPATH\Views\layout\laporan.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tempat"', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php', 63)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 5 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 01:44:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 01:44:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 01:44:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 01:46:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 01:46:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 01:46:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 01:46:43 --> Undefined array key "tempat"
+in APPPATH\Views\layout\laporan.php on line 63.
+ 1 APPPATH\Views\layout\laporan.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tempat"', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php', 63)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 5 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 01:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 01:47:04 --> Undefined array key "id_kategori"
+in APPPATH\Views\layout\laporan.php on line 70.
+ 1 APPPATH\Views\layout\laporan.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_kategori"', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php', 70)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 5 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 01:47:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 01:48:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 01:48:45 --> Undefined array key "id_kategori"
+in APPPATH\Views\layout\laporan.php on line 70.
+ 1 APPPATH\Views\layout\laporan.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_kategori"', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php', 70)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 5 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 01:49:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 01:51:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 01:51:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 01:54:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 01:54:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 01:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 01:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 01:56:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 01:57:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 01:59:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 02:00:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 02:02:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 02:03:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 02:57:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 02:57:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 02:58:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 02:58:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 03:00:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 04:18:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 04:18:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-06 04:18:33 --> mysqli_sql_exception: Column 'nik' cannot be null in C:\xampp\htdocs\cafe-ci4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cafe-ci4\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `la...', 0)
+#1 C:\xampp\htdocs\cafe-ci4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `la...')
+#2 C:\xampp\htdocs\cafe-ci4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `la...')
+#3 C:\xampp\htdocs\cafe-ci4\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `la...', Array, false)
+#4 C:\xampp\htdocs\cafe-ci4\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\cafe-ci4\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\cafe-ci4\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\cafe-ci4\app\Controllers\Laporan.php(54): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(942): App\Controllers\Laporan->save()
+#9 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#10 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\cafe-ci4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-05-06 04:18:33 --> Column 'nik' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `laporan` (`nama`, `nik`, `ttl`, `alamat`, `RT`, `kep`, `status`) VALUES (:nama:, :nik:, :ttl:, :alamat:, :RT:, :kep:, :status:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Laporan.php(54): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->save()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 04:18:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 04:18:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 04:20:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-06 04:20:27 --> mysqli_sql_exception: Column 'nik' cannot be null in C:\xampp\htdocs\cafe-ci4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cafe-ci4\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `la...', 0)
+#1 C:\xampp\htdocs\cafe-ci4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `la...')
+#2 C:\xampp\htdocs\cafe-ci4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `la...')
+#3 C:\xampp\htdocs\cafe-ci4\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `la...', Array, false)
+#4 C:\xampp\htdocs\cafe-ci4\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\cafe-ci4\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\cafe-ci4\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\cafe-ci4\app\Controllers\Laporan.php(54): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(942): App\Controllers\Laporan->save()
+#9 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#10 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\cafe-ci4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-05-06 04:20:27 --> Column 'nik' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `laporan` (`nama`, `nik`, `ttl`, `alamat`, `RT`, `kep`, `status`) VALUES (:nama:, :nik:, :ttl:, :alamat:, :RT:, :kep:, :status:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Laporan.php(54): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->save()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 04:27:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 04:27:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 04:28:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 04:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 04:28:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 04:28:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-06 04:28:30 --> mysqli_sql_exception: Unknown column 'edit_status' in 'field list' in C:\xampp\htdocs\cafe-ci4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cafe-ci4\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `laporan...', 0)
+#1 C:\xampp\htdocs\cafe-ci4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `laporan...')
+#2 C:\xampp\htdocs\cafe-ci4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `laporan...')
+#3 C:\xampp\htdocs\cafe-ci4\system\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `laporan...', Array, false)
+#4 C:\xampp\htdocs\cafe-ci4\app\Models\LaporanModel.php(14): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 C:\xampp\htdocs\cafe-ci4\app\Controllers\Laporan.php(52): App\Models\LaporanModel->saveCheckboxStatus(1)
+#6 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(942): App\Controllers\Laporan->save()
+#7 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#8 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cafe-ci4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-06 04:28:30 --> Unknown column 'edit_status' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `laporan` SET `edit_status` = :edit_status:', [...], false)
+ 2 APPPATH\Models\LaporanModel.php(14): CodeIgniter\Database\BaseBuilder->update([...])
+ 3 APPPATH\Controllers\Laporan.php(52): App\Models\LaporanModel->saveCheckboxStatus(1)
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->save()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 04:28:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 04:28:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 04:52:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 04:58:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-06 04:58:37 --> mysqli_sql_exception: Unknown column 'edit_status' in 'field list' in C:\xampp\htdocs\cafe-ci4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cafe-ci4\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `laporan...', 0)
+#1 C:\xampp\htdocs\cafe-ci4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `laporan...')
+#2 C:\xampp\htdocs\cafe-ci4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `laporan...')
+#3 C:\xampp\htdocs\cafe-ci4\system\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `laporan...', Array, false)
+#4 C:\xampp\htdocs\cafe-ci4\app\Models\LaporanModel.php(14): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 C:\xampp\htdocs\cafe-ci4\app\Controllers\Laporan.php(54): App\Models\LaporanModel->saveCheckboxStatus(1)
+#6 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(942): App\Controllers\Laporan->save()
+#7 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#8 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cafe-ci4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-06 04:58:37 --> Unknown column 'edit_status' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `laporan` SET `edit_status` = :edit_status:', [...], false)
+ 2 APPPATH\Models\LaporanModel.php(14): CodeIgniter\Database\BaseBuilder->update([...])
+ 3 APPPATH\Controllers\Laporan.php(54): App\Models\LaporanModel->saveCheckboxStatus(1)
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->save()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 04:58:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-06 05:00:01 --> mysqli_sql_exception: Unknown column 'edit_status' in 'field list' in C:\xampp\htdocs\cafe-ci4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cafe-ci4\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `laporan...', 0)
+#1 C:\xampp\htdocs\cafe-ci4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `laporan...')
+#2 C:\xampp\htdocs\cafe-ci4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `laporan...')
+#3 C:\xampp\htdocs\cafe-ci4\system\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `laporan...', Array, false)
+#4 C:\xampp\htdocs\cafe-ci4\app\Models\LaporanModel.php(14): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 C:\xampp\htdocs\cafe-ci4\app\Controllers\Laporan.php(54): App\Models\LaporanModel->saveCheckboxStatus(1)
+#6 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(942): App\Controllers\Laporan->save()
+#7 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#8 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cafe-ci4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-06 05:00:01 --> Unknown column 'edit_status' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `laporan` SET `edit_status` = :edit_status:', [...], false)
+ 2 APPPATH\Models\LaporanModel.php(14): CodeIgniter\Database\BaseBuilder->update([...])
+ 3 APPPATH\Controllers\Laporan.php(54): App\Models\LaporanModel->saveCheckboxStatus(1)
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->save()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 05:00:32 --> mysqli_sql_exception: Unknown column 'edit_status' in 'field list' in C:\xampp\htdocs\cafe-ci4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cafe-ci4\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `laporan...', 0)
+#1 C:\xampp\htdocs\cafe-ci4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `laporan...')
+#2 C:\xampp\htdocs\cafe-ci4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `laporan...')
+#3 C:\xampp\htdocs\cafe-ci4\system\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `laporan...', Array, false)
+#4 C:\xampp\htdocs\cafe-ci4\app\Models\LaporanModel.php(14): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 C:\xampp\htdocs\cafe-ci4\app\Controllers\Laporan.php(54): App\Models\LaporanModel->saveCheckboxStatus(1)
+#6 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(942): App\Controllers\Laporan->save()
+#7 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#8 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cafe-ci4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-06 05:00:32 --> Unknown column 'edit_status' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `laporan` SET `edit_status` = :edit_status:', [...], false)
+ 2 APPPATH\Models\LaporanModel.php(14): CodeIgniter\Database\BaseBuilder->update([...])
+ 3 APPPATH\Controllers\Laporan.php(54): App\Models\LaporanModel->saveCheckboxStatus(1)
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->save()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 05:00:38 --> mysqli_sql_exception: Unknown column 'edit_status' in 'field list' in C:\xampp\htdocs\cafe-ci4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cafe-ci4\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `laporan...', 0)
+#1 C:\xampp\htdocs\cafe-ci4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `laporan...')
+#2 C:\xampp\htdocs\cafe-ci4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `laporan...')
+#3 C:\xampp\htdocs\cafe-ci4\system\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `laporan...', Array, false)
+#4 C:\xampp\htdocs\cafe-ci4\app\Models\LaporanModel.php(14): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 C:\xampp\htdocs\cafe-ci4\app\Controllers\Laporan.php(54): App\Models\LaporanModel->saveCheckboxStatus(1)
+#6 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(942): App\Controllers\Laporan->save()
+#7 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#8 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cafe-ci4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-06 05:00:38 --> Unknown column 'edit_status' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `laporan` SET `edit_status` = :edit_status:', [...], false)
+ 2 APPPATH\Models\LaporanModel.php(14): CodeIgniter\Database\BaseBuilder->update([...])
+ 3 APPPATH\Controllers\Laporan.php(54): App\Models\LaporanModel->saveCheckboxStatus(1)
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->save()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:00:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:00:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-06 05:00:47 --> mysqli_sql_exception: Unknown column 'edit_status' in 'field list' in C:\xampp\htdocs\cafe-ci4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cafe-ci4\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `laporan...', 0)
+#1 C:\xampp\htdocs\cafe-ci4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `laporan...')
+#2 C:\xampp\htdocs\cafe-ci4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `laporan...')
+#3 C:\xampp\htdocs\cafe-ci4\system\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `laporan...', Array, false)
+#4 C:\xampp\htdocs\cafe-ci4\app\Models\LaporanModel.php(14): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 C:\xampp\htdocs\cafe-ci4\app\Controllers\Laporan.php(54): App\Models\LaporanModel->saveCheckboxStatus(1)
+#6 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(942): App\Controllers\Laporan->save()
+#7 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#8 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cafe-ci4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-06 05:00:47 --> Unknown column 'edit_status' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `laporan` SET `edit_status` = :edit_status:', [...], false)
+ 2 APPPATH\Models\LaporanModel.php(14): CodeIgniter\Database\BaseBuilder->update([...])
+ 3 APPPATH\Controllers\Laporan.php(54): App\Models\LaporanModel->saveCheckboxStatus(1)
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->save()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 05:01:31 --> mysqli_sql_exception: Unknown column 'edit' in 'field list' in C:\xampp\htdocs\cafe-ci4\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cafe-ci4\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `laporan...', 0)
+#1 C:\xampp\htdocs\cafe-ci4\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `laporan...')
+#2 C:\xampp\htdocs\cafe-ci4\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `laporan...')
+#3 C:\xampp\htdocs\cafe-ci4\system\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `laporan...', Array, false)
+#4 C:\xampp\htdocs\cafe-ci4\app\Models\LaporanModel.php(14): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 C:\xampp\htdocs\cafe-ci4\app\Controllers\Laporan.php(54): App\Models\LaporanModel->saveCheckboxStatus(1)
+#6 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(942): App\Controllers\Laporan->save()
+#7 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#8 C:\xampp\htdocs\cafe-ci4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\cafe-ci4\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-06 05:01:31 --> Unknown column 'edit' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `laporan` SET `edit` = :edit:', [...], false)
+ 2 APPPATH\Models\LaporanModel.php(14): CodeIgniter\Database\BaseBuilder->update([...])
+ 3 APPPATH\Controllers\Laporan.php(54): App\Models\LaporanModel->saveCheckboxStatus(1)
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->save()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:02:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:02:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 05:07:32 --> Call to undefined method App\Models\LaporanModel::getEditStatus
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Laporan.php(33): CodeIgniter\Model->__call('getEditStatus', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 05:09:23 --> Invalid file: "laporan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('laporan.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('laporan', [], true)
+ 3 APPPATH\Controllers\Laporan.php(36): view('laporan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:10:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:10:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:11:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:12:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:12:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:12:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:15:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:15:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:16:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:16:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 05:17:23 --> Call to undefined method App\Models\LaporanModel::getEditStatus
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Laporan.php(33): CodeIgniter\Model->__call('getEditStatus', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:19:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:19:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:19:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:19:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 05:20:04 --> Call to undefined method App\Models\LaporanModel::getEditStatus
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Laporan.php(33): CodeIgniter\Model->__call('getEditStatus', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 05:20:12 --> Call to undefined method App\Models\LaporanModel::getEditStatus
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Laporan.php(33): CodeIgniter\Model->__call('getEditStatus', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:20:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:21:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:21:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:21:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 05:21:47 --> Undefined variable $editStatus
+in APPPATH\Views\layout\laporan.php on line 71.
+ 1 APPPATH\Views\layout\laporan.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $editStatus', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php', 71)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 5 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 05:22:47 --> Undefined variable $editStatus
+in APPPATH\Views\layout\laporan.php on line 71.
+ 1 APPPATH\Views\layout\laporan.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $editStatus', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php', 71)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 5 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:23:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 05:23:08 --> Undefined variable $Status
+in APPPATH\Views\layout\laporan.php on line 71.
+ 1 APPPATH\Views\layout\laporan.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Status', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php', 71)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 5 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:23:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 05:23:09 --> Undefined variable $Status
+in APPPATH\Views\layout\laporan.php on line 71.
+ 1 APPPATH\Views\layout\laporan.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Status', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php', 71)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 5 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 05:25:58 --> Undefined variable $Status
+in APPPATH\Views\layout\laporan.php on line 71.
+ 1 APPPATH\Views\layout\laporan.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Status', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php', 71)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 5 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:26:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 05:26:00 --> Undefined variable $Status
+in APPPATH\Views\layout\laporan.php on line 71.
+ 1 APPPATH\Views\layout\laporan.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Status', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php', 71)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 5 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:33:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 05:33:08 --> Undefined variable $status
+in APPPATH\Views\layout\laporan.php on line 71.
+ 1 APPPATH\Views\layout\laporan.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php', 71)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 5 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:33:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 05:33:10 --> Undefined variable $status
+in APPPATH\Views\layout\laporan.php on line 71.
+ 1 APPPATH\Views\layout\laporan.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php', 71)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 5 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:34:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 05:34:11 --> Undefined variable $status
+in APPPATH\Views\layout\laporan.php on line 71.
+ 1 APPPATH\Views\layout\laporan.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php', 71)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\laporan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 5 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 05:35:27 --> Call to undefined method App\Models\LaporanModel::getEditStatus
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Laporan.php(26): CodeIgniter\Model->__call('getEditStatus', [])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:36:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:37:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:37:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:38:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:38:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:38:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 05:39:23 --> Invalid file: "laporan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('laporan.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('laporan', [], true)
+ 3 APPPATH\Controllers\Laporan.php(61): view('laporan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->save()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:39:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:39:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:39:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:40:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:40:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:41:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:41:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:41:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:41:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:42:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:42:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:43:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:43:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:43:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:43:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:43:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:43:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:43:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 05:44:13 --> Invalid file: "laporan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('laporan.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('laporan', [], true)
+ 3 APPPATH\Controllers\Laporan.php(61): view('laporan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->save()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:44:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:44:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:46:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:46:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:46:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:46:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:46:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:46:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:47:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:47:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:47:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:47:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:47:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:48:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:48:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:48:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:48:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:48:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:48:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:49:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:49:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:49:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:49:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:49:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 05:49:23 --> Invalid file: "laporan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('laporan.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('laporan', [], true)
+ 3 APPPATH\Controllers\Laporan.php(61): view('laporan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->save()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:49:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:49:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:54:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:54:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:54:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 05:54:41 --> Invalid file: "laporan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('laporan.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('laporan', [], true)
+ 3 APPPATH\Controllers\Laporan.php(61): view('laporan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->save()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:54:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:54:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:54:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:54:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:55:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:55:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:55:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:55:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:55:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 05:55:58 --> Invalid file: "laporan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('laporan.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('laporan', [], true)
+ 3 APPPATH\Controllers\Laporan.php(61): view('laporan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->save()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 05:56:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:56:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 05:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 12:45:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-06 12:46:09 --> Invalid file: "laporan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('laporan.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('laporan', [], true)
+ 3 APPPATH\Controllers\Laporan.php(70): view('laporan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->save()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-06 12:47:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 12:47:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 12:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-06 12:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

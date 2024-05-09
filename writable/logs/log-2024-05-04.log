@@ -1,0 +1,197 @@
+INFO - 2024-05-04 03:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 03:52:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 03:52:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 03:52:33 --> Undefined variable $r
+in APPPATH\Views\layout\template.php on line 211.
+ 1 APPPATH\Views\layout\template.php(211): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $r', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php', 211)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/template', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 6 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 03:53:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 03:53:35 --> Undefined variable $r
+in APPPATH\Views\layout\template.php on line 212.
+ 1 APPPATH\Views\layout\template.php(212): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $r', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php', 212)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/template', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 6 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 03:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 03:53:39 --> Undefined variable $r
+in APPPATH\Views\layout\template.php on line 212.
+ 1 APPPATH\Views\layout\template.php(212): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $r', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php', 212)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/template', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 6 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 03:53:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 03:53:44 --> Undefined variable $r
+in APPPATH\Views\layout\template.php on line 212.
+ 1 APPPATH\Views\layout\template.php(212): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $r', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php', 212)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/template', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 6 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 03:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 03:54:43 --> Undefined variable $r
+in APPPATH\Views\layout\template.php on line 211.
+ 1 APPPATH\Views\layout\template.php(211): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $r', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php', 211)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/template', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 6 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 03:54:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 03:54:46 --> Undefined variable $r
+in APPPATH\Views\layout\template.php on line 211.
+ 1 APPPATH\Views\layout\template.php(211): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $r', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php', 211)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/template', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 6 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 03:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 03:58:18 --> session_start(): Ignoring session_start() because a session is already active
+in APPPATH\Views\layout\template.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'session_start(): Ignoring session_start() because a session is already active', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php', 3)
+ 2 APPPATH\Views\layout\template.php(3): session_start()
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/template', [], true)
+ 6 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 7 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 03:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 04:00:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 04:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 04:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 04:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 04:06:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 04:07:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 04:07:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 04:14:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 04:14:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 04:14:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 04:14:57 --> Call to undefined method CodeIgniter\Session\Session::isStarted()
+in APPPATH\Controllers\Login.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->proseslogin()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 04:18:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 04:24:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 04:24:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 04:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 04:24:20 --> Undefined variable $conn
+in APPPATH\Controllers\Login.php on line 49.
+ 1 APPPATH\Controllers\Login.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $conn', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Controllers\\Login.php', 49)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->proseslogin()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 04:28:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 04:28:34 --> Undefined variable $conn
+in APPPATH\Controllers\Login.php on line 49.
+ 1 APPPATH\Controllers\Login.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $conn', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Controllers\\Login.php', 49)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->proseslogin()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 04:28:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 04:28:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 04:28:52 --> mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given
+in APPPATH\Views\layout\template.php on line 16.
+ 1 APPPATH\Views\layout\template.php(16): mysqli_query(null, 'SELECT * FROM user WHERE iduser=\'U002\'')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/template', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 6 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 04:29:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 04:29:27 --> Unmatched '}'
+in APPPATH\Views\layout\template.php on line 310.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 4 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 04:29:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 04:29:48 --> Undefined variable $user
+in APPPATH\Views\layout\template.php on line 215.
+ 1 APPPATH\Views\layout\template.php(215): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php', 215)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/template', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 6 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 04:31:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 04:31:00 --> mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given
+in APPPATH\Views\layout\template.php on line 16.
+ 1 APPPATH\Views\layout\template.php(16): mysqli_query(null, 'SELECT * FROM user WHERE iduser=\'U002\'')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/template', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 6 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-04 05:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 05:01:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 05:02:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-04 05:02:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-04 05:02:05 --> mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given
+in APPPATH\Views\layout\template.php on line 16.
+ 1 APPPATH\Views\layout\template.php(16): mysqli_query(null, 'SELECT * FROM user WHERE iduser=\'U002\'')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cafe-ci4\\app\\Views\\layout\\template.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout/template', [], true)
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout/laporan', [], true)
+ 6 APPPATH\Controllers\Laporan.php(28): view('layout/laporan', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
